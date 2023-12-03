@@ -2,10 +2,10 @@
 ## Simple-Craft-Launcher
 Minecraft Launcher 
 
-![version](https://img.shields.io/badge/release-0.0.0)
+![version](https://img.shields.io/badge/release-0.0.0-green)
 ![version](https://img.shields.io/badge/snapshot-0.0.0-yellow)
 ![version](https://img.shields.io/badge/dev-0.0.1-red)
-![core](https://img.shields.io/badge/Core-0.0.1)
+![core](https://img.shields.io/badge/Core-0.0.1-green)
 
 - 支持正版登录
 - 支持外置登录（authlib-injector）
@@ -29,14 +29,14 @@ Minecraft Launcher
 ![Python 3.7.9 x86](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)
 
 ### 模块
-![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6)
-![CryptoDome](https://img.shields.io/badge/PyCryptoDome-3.19.0)
-![lxml](https://img.shields.io/badge/lxml-4.9.3)
-![psutil](https://img.shields.io/badge/psutil-5.9.5)
-![tzlocal](https://img.shields.io/badge/tzlocal-5.1)
-![plyer](https://img.shields.io/badge/plyer-2.1.0)
-![pyaudio](https://img.shields.io/badge/pyaudio-0.2.13)
+![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6-red)
+![CryptoDome](https://img.shields.io/badge/PyCryptoDome-3.19.0-green)
+![lxml](https://img.shields.io/badge/lxml-4.9.3-green)
+![psutil](https://img.shields.io/badge/psutil-5.9.5-green)
+![tzlocal](https://img.shields.io/badge/tzlocal-5.1-green)
+![plyer](https://img.shields.io/badge/plyer-2.1.0-green)
+![pyaudio](https://img.shields.io/badge/pyaudio-0.2.13-green)
 
 ### 打包工具
-![Nuitka](https://img.shields.io/badge/Nuitka-1.8.6)
-![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133)
+![Nuitka](https://img.shields.io/badge/Nuitka-1.8.6-green)
+![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133-green)
