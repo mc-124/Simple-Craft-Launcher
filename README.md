@@ -2,8 +2,8 @@
 ## Simple-Craft-Launcher
 Minecraft Launcher 
 
-![version](https://img.shields.io/badge/release-0.0.0-green)
-![version](https://img.shields.io/badge/snapshot-0.0.0-yellow)
+![version](https://img.shields.io/badge/release-None-green)
+![version](https://img.shields.io/badge/snapshot-None-yellow)
 ![version](https://img.shields.io/badge/dev-0.0.1-red)
 ![core](https://img.shields.io/badge/Core-0.0.1-green)
 
@@ -23,7 +23,20 @@ Minecraft Launcher
 
 ### 部分缺点
 - UI丑（为了让exe尽可能的小，所以使用的是Tk/Tcl 8.6）
-- 没有UI动画
+
+### 进度
+| 名字 | 进度 |
+|:------:|:------:|
+| 创建项目并完善底层函数 | 进行中 98% |
+| UI | 进行中 10% |
+| 完善UI动画 | 进行中 1% |
+| MC启动模块 | 进行中 1% |
+| MC登录模块 | 进行中 50% |
+| 加载器安装模块 | 等待 0% |
+| Mod下载模块 | 等待 1% |
+| 绑定UI | 等待 0% |
+| 完善项目 | 等待 0% |
+| 完善Github仓库 | 等待 0% |
 
 ### 编程语言
 ![Python 3.7.9 x86](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)
