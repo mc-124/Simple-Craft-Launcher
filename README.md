@@ -33,13 +33,13 @@ Minecraft Launcher
 | MC启动模块 | 进行中 1% |
 | MC登录模块 | 进行中 50% |
 | 加载器安装模块 | 等待 0% |
-| Mod下载模块 | 等待 1% |
+| Mod下载模块 | 进行中 20% |
 | 绑定UI | 等待 0% |
 | 完善项目 | 等待 0% |
 | 完善Github仓库 | 等待 0% |
 
 ### 编程语言
-![Python 3.7.9 x86](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)(https://www.python.org)
+![Python 3.7.9 x86](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)
 
 ### 模块
 ![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6-red)
