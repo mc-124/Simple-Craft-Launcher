@@ -6,6 +6,7 @@ Minecraft Launcher
 ![version](https://img.shields.io/badge/snapshot-None-yellow)
 ![version](https://img.shields.io/badge/dev-0.0.1-red)
 ![core](https://img.shields.io/badge/Core-0.0.1-green)
+![gui](https://img.shields.io/badge/GUI-0.0.1-green)
 
 - 支持正版登录
 - 支持外置登录（authlib-injector）
@@ -24,14 +25,14 @@ Minecraft Launcher
 ![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6-red)
 
 ### 部分缺点
-- UI有点丑（为了让exe尽可能的小，所以使用的是Tk/Tcl 8.6）
+未知
 
 ### 进度
 | 名称 | 进度 |
-|:------:|:------:|
+|:------|:------|
 | 创建项目并完善底层函数 | 进行中 99% |
 | Minecraft启动核心 | 等待 2% |
-| UI | 进行中 12% |
+| tkinter GUI | 进行中 12% |
 | 完善UI动画 | 进行中 1% |
 | MC启动模块 | 进行中 1% |
 | MC登录模块 | 进行中 50% |
@@ -49,23 +50,26 @@ Minecraft Launcher
 | AMD64/Intel64 | 完全支持 | 支持Ubuntu，其他未知 | 完全支持 | 
 | x86 | 完全支持 | 支持Ubuntu，其他未知 | 不支持 |
 | Arm64 | 功能不全，无可用的可执行文件 | 支持Ubuntu，其他未知，无可用的可执行文件 | 完全支持 |
-| Arm32 | 不支持 | 不支持 | 不支持 | 功能不全或无法运行，无可用的可执行文件 |
+| Arm32 | 不支持 | 不支持 | 不支持 |
 | Other | 不支持 | 功能不全或无法运行，无可用的可执行文件 | 不支持 |
 #### 注：
-##### Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
-##### MacOS仅支持OSX，跨架构靠系统自身
-##### Linux仅在Ubuntu22.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
+- Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
+- MacOS仅支持OSX，跨架构靠系统自身
+- Linux仅在Ubuntu22.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
 
 ### 编程语言
 <a href="https://www.python.org/downloads/release/python-379/">
   <img src="https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9">
+</a>
+<a href="https://www.python.org/downloads/release/python-31012/">
+  <img src="https://img.shields.io/badge/Python_3.10.12_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.10.12">
 </a>
 
 
 ### 使用的所有第三方库
 | 名称 | 类型 | 重命名 |
 | :-----: | :-----: | :-----: |
-| ![plyer](https://img.shields.io/badge/plyer-2.1.0-green) | 删去了除windows外的api | 无重命名 |
+| ![plyer](https://img.shields.io/badge/plyer-2.1.0-green) | 删去了移动端的api | 无重命名 |
 | ![pyaudio](https://img.shields.io/badge/pyaudio-0.2.13-green) | 无改动 | 无重命名 |
 | ![bs4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-green) | 删去了test | 无重命名 |
 | ![psutil](https://img.shields.io/badge/psutil-5.9.5-green) | 仅保留获取内存信息函数 | psutil_memory |
@@ -75,4 +79,4 @@ Minecraft Launcher
 ### 打包工具
 ![Nuitka](https://img.shields.io/badge/Nuitka-1.8.6-green)
 ![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133-green)
-##### 部分打包工具未列出
+- 部分打包工具未列出
