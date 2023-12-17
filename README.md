@@ -29,37 +29,39 @@ Minecraft Launcher
 ### 进度
 | 名称 | 进度 |
 |:------:|:------:|
-| 创建项目并完善底层函数 | 进行中 98% |
-| Minecraft启动核心 | 等待 1% |
-| UI | 进行中 10% |
+| 创建项目并完善底层函数 | 进行中 99% |
+| Minecraft启动核心 | 等待 2% |
+| UI | 进行中 12% |
 | 完善UI动画 | 进行中 1% |
 | MC启动模块 | 进行中 1% |
 | MC登录模块 | 进行中 50% |
 | 加载器安装模块 | 等待 0% |
-| Mod下载模块 | 进行中 35% |
-| 绑定UI | 等待 0% |
+| Mod下载模块 | 进行中 50% |
+| 绑定UI | 等待 1% |
 | 完善项目 | 等待 0% |
 | 完善Github仓库 | 等待 0% |
+| 支持Linux | 等待 1% |
+| 支持OSX | 等待 0% |
 
 ### 计划支持的操作系统与架构
-#### 支持的系统
-| 名称 | 是否支持 |
-| :-----: | :-----: |
-| <= Windows Server 2008 | False |
-| >= Windows 7 | True |
-| Linux | False |
-| MacOS | False |
-| Other | False |
-#### 支持的架构
-| 名称 |
-| :-----: |
-| x86 |
-| AMD64 |
-| Inte64 |
-| ARM 64 |
+| 系统/架构 | Windows | Linux | MacOS | Other |
+| :----- | :-----  | :----- | :----- | :-----|
+| AMD64/Intel64 | 完全支持 | 支持Ubuntu，其他未知 | 完全支持 | 功能不全或无法运行，无可用的可执行文件 |
+| x86 | 完全支持 | 支持Ubuntu，其他未知 | 不支持 | 功能不全或无法运行，无可用的可执行文件 |
+| Arm64 | 功能不全，无可用的可执行文件 | 支持Ubuntu，其他未知，无可用的可执行文件 | 完全支持 | 功能不全或无法运行，无可用的可执行文件 |
+| Arm32 | 不支持 | 不支持 | 不支持 | 功能不全或无法运行，无可用的可执行文件 |
+| Other | 不支持 | 功能不全或无法运行，无可用的可执行文件 | 不支持 | 功能不全或无法运行，无可用的可执行文件 |
+#### 注：
+##### Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
+##### MacOS仅支持OSX，跨架构靠系统自身
+##### Linux仅在Ubuntu22.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
+##### 前几个版本无法跨平台
 
 ### 编程语言
-![Python 3.7.9 x86](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)
+<a href="https://www.python.org/downloads/release/python-379/">
+  <img src="[image.jpg](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)" alt="Python3.7.9">
+</a>
+
 
 ### 使用的所有第三方库
 | 名称 | 类型 | 重命名 |
@@ -74,3 +76,4 @@ Minecraft Launcher
 ### 打包工具
 ![Nuitka](https://img.shields.io/badge/Nuitka-1.8.6-green)
 ![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133-green)
+##### 部分打包工具未列出
