@@ -59,7 +59,7 @@ Minecraft Launcher
 
 ### 编程语言
 <a href="https://www.python.org/downloads/release/python-379/">
-  <img src="[image.jpg](https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff)" alt="Python3.7.9">
+  <img src="https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9">
 </a>
 
 
