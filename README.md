@@ -32,7 +32,7 @@ Minecraft Launcher
 |:------|:------|
 | 创建项目并完善底层函数 | 进行中 99% |
 | Minecraft启动核心 | 等待 2% |
-| tkinter GUI | 进行中 12% |
+| tkinter GUI | 进行中 13% |
 | 完善UI动画 | 进行中 1% |
 | MC启动模块 | 进行中 1% |
 | MC登录模块 | 进行中 50% |
@@ -41,17 +41,18 @@ Minecraft Launcher
 | 绑定UI | 等待 1% |
 | 完善项目 | 等待 0% |
 | 完善Github仓库 | 等待 0% |
-| 支持Linux | 等待 1% |
+| 支持Linux | 等待 8% |
 | 支持OSX | 等待 0% |
 
 ### 计划支持的操作系统与架构
 | 系统/架构 | Windows | Linux | MacOS |
 | :----- | :-----  | :----- | :----- |
-| AMD64/Intel64 | 完全支持 | 支持Ubuntu，其他未知 | 完全支持 | 
-| x86 | 完全支持 | 支持Ubuntu，其他未知 | 不支持 |
-| Arm64 | 功能不全，无可用的可执行文件 | 支持Ubuntu，其他未知，无可用的可执行文件 | 完全支持 |
-| Arm32 | 不支持 | 不支持 | 不支持 |
-| Other | 不支持 | 功能不全或无法运行，无可用的可执行文件 | 不支持 |
+| x86_64 | ☑️ | ☑️ | ☑️ |
+| x86 | ☑️ | ☑️ | ❎ |
+| Arm64 | ⚠️ | ⚠️ | ☑️ |
+- "☑️":支持
+- "❎":不支持
+- "⚠️":部分功能异常或无可执行文件
 #### 注：
 - Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
 - MacOS仅支持OSX，跨架构靠系统自身
@@ -61,10 +62,6 @@ Minecraft Launcher
 <a href="https://www.python.org/downloads/release/python-379/">
   <img src="https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9">
 </a>
-<a href="https://www.python.org/downloads/release/python-31012/">
-  <img src="https://img.shields.io/badge/Python_3.10.12_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.10.12">
-</a>
-
 
 ### 使用的所有第三方库
 | 名称 | 类型 | 重命名 |
