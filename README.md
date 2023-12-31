@@ -28,31 +28,32 @@ Minecraft Launcher
 未知
 
 ### 进度
-| 名称 | 进度 |
-|:------|:------|
-| 创建项目并完善底层函数 | 进行中 99% |
-| Minecraft启动核心 | 等待 2% |
-| tkinter GUI | 进行中 13% |
-| 完善UI动画 | 进行中 1% |
-| MC启动模块 | 进行中 1% |
-| MC登录模块 | 进行中 50% |
-| 加载器安装模块 | 等待 0% |
-| Mod下载模块 | 进行中 50% |
-| 绑定UI | 等待 1% |
-| 完善项目 | 等待 0% |
-| 完善Github仓库 | 等待 0% |
-| 支持Linux | 等待 8% |
-| 支持OSX | 等待 0% |
+> | 名称 | 进度 |
+> |:------|:------|
+> | 创建项目并完善底层函数 | 进行中 99% |
+> | Minecraft启动核心 | 等待 3% |
+> | tkinter GUI | 进行中 13% |
+> | 完善UI动画 | 进行中 5% |
+> | MC启动模块 | 进行中 1% |
+> | MC登录模块 | 进行中 50% |
+> | 加载器安装模块 | 等待 0% |
+> | Mod下载模块 | 进行中 50% |
+> | 绑定UI | 等待 1% |
+> | 完善项目 | 等待 0% |
+> | 完善Github仓库 | 等待 0% |
+> | 支持Linux | 等待 20% |
+> | 支持OSX | 等待 0% |
 
 ### 计划支持的操作系统与架构
 | 系统/架构 | Windows | Linux | MacOS |
 | :----- | :-----  | :----- | :----- |
-| x86_64 | ☑️ | ☑️ | ☑️ |
+| x86_64 | ☑️ | ☑️ | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
 | x86 | ☑️ | ☑️ | ❎ |
-| Arm64 | ⚠️ | ⚠️ | ☑️ |
+| Arm64 | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
 - "☑️":支持
 - "❎":不支持
-- "⚠️":部分功能异常或无可执行文件
+- "⚠️":部分功能异常
+- \"[fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)\":暂无可执行文件
 #### 注：
 - Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
 - MacOS仅支持OSX，跨架构靠系统自身
