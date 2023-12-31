@@ -57,7 +57,8 @@ Minecraft Launcher
 #### 注：
 - Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
 - MacOS仅支持OSX，跨架构靠系统自身
-- Linux仅在Ubuntu22.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
+- Linux仅在Ubuntu18.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
+- 仅支持Python3.7,暂不支持其他版本的Python解释器(包括更高版本的)
 
 ### 编程语言
 <a href="https://www.python.org/downloads/release/python-379/">
@@ -77,4 +78,4 @@ Minecraft Launcher
 ### 打包工具
 ![Nuitka](https://img.shields.io/badge/Nuitka-1.8.6-green)
 ![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133-green)
-- 部分打包工具未列出
+![MingW64](http://img.shields.io/badge/Mingw64-green)
