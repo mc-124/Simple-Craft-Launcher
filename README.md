@@ -47,13 +47,13 @@ Minecraft Launcher
 ### 计划支持的操作系统与架构
 | 系统/架构 | Windows | Linux | MacOS |
 | :----- | :-----  | :----- | :----- |
-| x86_64 | ☑️ | ☑️ | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
+| x86_64 | ☑️ | ☑️ | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
 | x86 | ☑️ | ☑️ | ❎ |
-| Arm64 | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | [fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
+| Arm64 | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
 - "☑️":支持
 - "❎":不支持
 - "⚠️":部分功能异常
-- \"[fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)\":暂无可执行文件
+- \"![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)\":暂无可执行文件
 #### 注：
 - Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
 - MacOS仅支持OSX，跨架构靠系统自身
