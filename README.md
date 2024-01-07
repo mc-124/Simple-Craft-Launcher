@@ -62,7 +62,9 @@ Minecraft Launcher
 
 ### 编程语言
 > Windows平台： <a href="https://www.python.org/downloads/release/python-379/"><img src="https://img.shields.io/badge/Python_3.7.9_win32_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9"></a>
+
 > Linux平台： <a href="https://www.python.org/downloads/release/python-375/"><img src="https://img.shields.io/badge/Python_3.7.5_linux_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.5"></a>
+
 > MacOS平台： Python3.7
 
 ### 使用的所有第三方库
