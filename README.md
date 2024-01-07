@@ -15,7 +15,7 @@ Minecraft Launcher
 > - 可安装Minecraft JE Server
 > - 可安装Mods（支持中文搜索）
 > - 支持多语言
-> - 自带运行时，无需另外安装运行时
+> - 自带运行时，无需另外安装运行时（但是需要安装插件 60MB必选（ffmpeg），120MB可选（内置浏览器组件））
 > - MIT开源（除了部分加密逻辑与CurseForgeApiKey外）
 > - 完全免费
 > - 多线程下载
@@ -30,19 +30,19 @@ Minecraft Launcher
 ### 进度
 > | 名称 | 进度 |
 > |:------|:------|
-> | 创建项目并完善底层函数 | 进行中 99% |
-> | Minecraft启动核心 | 等待 3% |
-> | tkinter GUI | 进行中 25% |
-> | 完善UI动画 | 进行中 5% |
-> | MC启动模块 | 进行中 1% |
-> | MC登录模块 | 进行中 50% |
-> | 加载器安装模块 | 等待 1% |
-> | Mod下载模块 | 进行中 50% |
+> | 创建项目并完善底层函数 | 基本完成 99% |
+> | Minecraft核心 | 进行中 10% |
+> | tkinter GUI | 进行中 35% |
+> | 完善UI动画 | 进行中 20% |
+> | MC启动模块 | 等待 1% |
+> | MC登录模块 | 等待 50% |
+> | 加载器安装模块 | 等待 5% |
+> | Mod下载模块 | 等待 50% |
 > | 绑定UI | 等待 1% |
 > | 完善项目 | 等待 0% |
-> | 完善Github仓库 | 等待 0% |
+> | 完善Github仓库 | 等待 1% |
 > | 支持Linux | 等待 20% |
-> | 支持OSX | 等待 0% |
+> | 支持OSX | 等待 1% |
 
 ### 计划支持的操作系统与架构
 > | 系统/架构 | Windows | Linux | MacOS |
@@ -61,8 +61,9 @@ Minecraft Launcher
 > - 仅支持Python3.7，暂不支持其他版本的Python解释器（包括更高版本的）
 
 ### 编程语言
-> <a href="https://www.python.org/downloads/release/python-379/"><img src="https://img.shields.io/badge/Python_3.7.9_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9"></a>
-> <a href="https://www.python.org/downloads/release/python-375/"><img src="https://img.shields.io/badge/Python_3.7.5_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.5"></a>
+> Windows平台： <a href="https://www.python.org/downloads/release/python-379/"><img src="https://img.shields.io/badge/Python_3.7.9_win32_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9"></a>
+> Linux平台： <a href="https://www.python.org/downloads/release/python-375/"><img src="https://img.shields.io/badge/Python_3.7.5_linux_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.5"></a>
+> MacOS平台： Python3.7
 
 ### 使用的所有第三方库
 > | 名称 | 对库的更改 |
@@ -74,5 +75,4 @@ Minecraft Launcher
 
 ### 打包工具
 > ![Nuitka](https://img.shields.io/badge/Nuitka-1.9.6-green)
-> ![MSVC2019](https://img.shields.io/badge/MSVC_2019_x86-14.29.30133-green)
-> ![GCC7](http://img.shields.io/badge/GCC-7-green)
+> ![GCC13](http://img.shields.io/badge/GCC_x86-13.2.0-green)
