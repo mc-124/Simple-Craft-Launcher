@@ -55,17 +55,15 @@ Minecraft Launcher
 > - "⚠️":部分功能异常
 > - \"![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)\":暂无可执行文件
 #### 注：
-> - Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
-> - MacOS仅支持OSX，跨架构靠系统自身
-> - Linux仅在Ubuntu18.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
-> - 仅支持Python3.7，暂不支持其他版本的Python解释器（包括更高版本的）
+> Windows仅支持Windows7及更高版本（不包括WindowsServer2008）
+> MacOS仅支持OSX，跨架构靠系统自身
+> Linux仅在Ubuntu18.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
+> 仅支持Python3.7，暂不支持其他版本的Python解释器（包括更高版本的）
 
 ### 编程语言
-> Windows平台： <a href="https://www.python.org/downloads/release/python-379/"><img src="https://img.shields.io/badge/Python_3.7.9_win32_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9"></a>
-
-> Linux平台： <a href="https://www.python.org/downloads/release/python-375/"><img src="https://img.shields.io/badge/Python_3.7.5_linux_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.5"></a>
-
-> MacOS平台： Python3.7
+Windows平台： <a href="https://www.python.org/downloads/release/python-379/"><img src="https://img.shields.io/badge/Python_3.7.9_win32_x86-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.9"></a>
+Linux平台： <a href="https://www.python.org/downloads/release/python-375/"><img src="https://img.shields.io/badge/Python_3.7.5_linux_x64-3d7aab?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python3.7.5"></a>
+MacOS平台： <a>Python3.7</a>
 
 ### 使用的所有第三方库
 > | 名称 | 对库的更改 |
