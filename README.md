@@ -9,16 +9,27 @@ Minecraft Launcher
 ![gui](https://img.shields.io/badge/GUI-0.0.1-green)
 
 > 支持微软登录
+> 
 > 支持外置皮肤站登录（authlib-injector）
+> 
 > 支持离线登录
+> 
 > 可安装Minecraft JE Client
+> 
 > 可安装Minecraft JE Server
+> 
 > 可安装Mods（支持中文搜索）
+> 
 > 支持多语言
+> 
 > 自带运行时，无需另外安装运行时（但是需要安装插件 60MB必选（ffmpeg），120MB可选（内置浏览器组件））
+> 
 > MIT开源（除了部分加密逻辑与CurseForgeApiKey外）
+> 
 > 完全免费
+> 
 > 多线程下载
+> 
 > 自动安装Java
 
 ### UI库
