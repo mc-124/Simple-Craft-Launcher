@@ -22,34 +22,34 @@ Minecraft Launcher
 * 自动安装Java
 
 ### UI库
-> ![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6-red)
+![Tk/Tcl](https://img.shields.io/badge/Tk%20Tcl-8.6-red)
 
 ### 部分缺点
-> 未知
+> 1.tkinter（
 
 ### 进度
-> | 名称 | 进度 |
-> |:------|:------|
-> | 创建项目并完善底层函数 | 基本完成 99% |
-> | Minecraft核心 | 进行中 10% |
-> | tkinter GUI | 进行中 35% |
-> | 完善UI动画 | 进行中 20% |
-> | MC启动模块 | 等待 1% |
-> | MC登录模块 | 等待 50% |
-> | 加载器安装模块 | 等待 5% |
-> | Mod下载模块 | 等待 50% |
-> | 绑定UI | 等待 1% |
-> | 完善项目 | 等待 0% |
-> | 完善Github仓库 | 等待 1% |
-> | 支持Linux | 等待 20% |
-> | 支持OSX | 等待 1% |
+>|名称|进度|
+>|-|-|
+>|创建项目并完善底层函数|基本完成 99%|
+>|Minecraft核心|进行中 10%|
+>|tkinter GUI|进行中 35%|
+>|完善UI动画|进行中 20%|
+>|MC启动模块|等待 1%|
+>|MC登录模块|等待 50%|
+>|加载器安装模块|等待 5%|
+>|Mod下载模块|等待 50%|
+>|绑定UI|等待 1%|
+>|完善项目|等待 0%|
+>|完善Github仓库|等待 1%|
+>|支持Linux|等待 20%|
+>|支持OSX|等待 1%|
 
 ### 计划支持的操作系统与架构
-> | 系统/架构 | Windows | Linux | MacOS |
-> | :----- | :-----  | :----- | :----- |
-> | x86_64 | ☑️ | ☑️ | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
-> | x86 | ☑️ | ☑️ | ❎ |
-> | Arm64 | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) | ![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png) |
+>|系统/架构|Windows|Linux|MacOS|
+>|-|-|-|-|
+>|x86_64|☑️|☑️|![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)|
+>|x86|☑️|☑️|❎|
+>|Arm64|![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)|![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)|![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)|
 > - "☑️":支持
 > - "❎":不支持
 > - "⚠️":部分功能异常
@@ -66,12 +66,12 @@ Minecraft Launcher
 * MacOS平台： <a>Python3.7</a>
 
 ### 使用的所有第三方库
-> | 名称 | 对库的更改 |
-> | :-----: | :-----: |
-> | ![pyaudio](https://img.shields.io/badge/pyaudio-0.2.13-green) | 无改动 |
-> | ![bs4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-green) | 删去了test |
-> | ![psutil](https://img.shields.io/badge/psutil-5.9.5-green) | 稍作更改 |
-> | ![cryptodome](https://img.shields.io/badge/PyCryptoDome-3.19.0-green) | 删去大量用不到的部分 |
+>|名称|对库的更改|
+>|-|-|
+>|![pyaudio](https://img.shields.io/badge/pyaudio-0.2.13-green)|无改动|
+>|![bs4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-green)|删去了test|
+>|![psutil](https://img.shields.io/badge/psutil-5.9.5-green)|稍作更改|
+>|![cryptodome](https://img.shields.io/badge/PyCryptoDome-3.19.0-green)|删去大量用不到的部分|
 
 ### 打包工具
 > ![Nuitka](https://img.shields.io/badge/Nuitka-1.9.6-green)
