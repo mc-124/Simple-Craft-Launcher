@@ -1,8 +1,8 @@
 - This program is under development, please do not download
 - The complete source code will be uploaded once the project is completed.
 
-- zh-CN
-- [en-US](https://github.com/mc-124/Simple-Craft-Launcher/blob/main/README-en.md)
+- [zh-CN](https://github.com/mc-124/Simple-Craft-Launcher/blob/main/README.md)
+- en-US
 # Simple-Craft-Launcher
 Minecraft Launcher 
 
