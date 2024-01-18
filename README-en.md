@@ -35,14 +35,14 @@ Minecraft Launcher
 > |Name|Progress|
 > |-|-|
 > |Project creation and completion of basic functions|Almost done 99%|
-> |Minecraft core|In progress 10%|
-> |tkinter GUI|In progress 35%|
-> |Completing UI animations|In progress 20%|
-> |MC launch module|Waiting 1%|
-> |MC login module|Waiting 50%|
+> |Minecraft core|In progress 15%|
+> |tkinter GUI|Pause 35%|
+> |Completing UI animations|Pause 60%|
+> |Minecraft launch module|In progress 15%|
+> |Minecraft login module|Waiting 50%|
 > |Loader installation module|Waiting 5%|
 > |Mod download module|Waiting 50%|
-> |UI binding|Waiting 1%|
+> |UI binding|Waiting 2%|
 > |Project completion|Waiting 0%|
 > |Github repository completion|Waiting 1%|
 > |Linux support|Waiting 20%|
