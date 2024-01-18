@@ -11,7 +11,7 @@ Minecraft Launcher
 > ![version](https://img.shields.io/badge/dev-0.0.1-red)
 > ![core](https://img.shields.io/badge/Core-0.0.1-green)
 > ![gui](https://img.shields.io/badge/GUI-0.0.1-green)
-> 
+
 > * 支持微软登录
 > * 支持外置皮肤站登录（authlib-injector）
 > * 支持离线登录
