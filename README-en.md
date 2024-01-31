@@ -1,3 +1,10 @@
+Total Progress: 35%
+
+- This program is being written, please do not download it
+- The full source code will be uploaded after the project is completed
+
+- en-US
+- [zh-CN](https://github.com/mc-124/Simple-Craft-Launcher/blob/main/README.md)
 # Simple-Craft-Launcher
 
 Minecraft Launcher
