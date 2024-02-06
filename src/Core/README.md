@@ -3,17 +3,9 @@
 - 此模块完全独立，因此你可以用于编写自己的Minecraft启动器！
 
 ### 需要的库
-> #### 原生库
-> ||||||
-> |-|-|-|-|-|
-> |base64|os|sys|json|urllib|
-> |ctypes|io|traceback|hashlib|re|
-> |ssl|zipfile|uuid|locale|datetime|
-> |types|typing|platform|threading|multiprocessing|
-> |webbrowser|time|shutil|xml|/|
+os sys base64 json xml urllib http io webbrowser subprocess typing types re time datetime shutiil random threading multiprocessing configparser uuid ssl locale ctypes platform 
 
-> #### 第三方库
-> |名称|用途|
-> |bs4|爬mcmod和forge|
+typing_extensions bs4 psutil
+
 
 *此模块使用MIT开源协议*
