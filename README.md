@@ -62,7 +62,7 @@ Minecraft Launcher
 > - \"![fwn](https://d.kstore.space/download/4904/SCL/website/fwn.png)\":暂无可执行文件
 #### 注：
 > Windows仅支持Windows7及更高版本（不包括WindowsServer2008）（未来可能会出XP版）
-> MacOS仅支持OSX，跨架构靠系统自身
+> MacOS最低支持OSX，跨架构靠系统自身
 > Linux仅在Ubuntu18.04-AMD64测试并进行优化，仅支持Ubuntu18.04及更高版本
 
 ### 编程语言
